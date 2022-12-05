@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">A data scientist from Portland, OR</h3>
+<h3 align="center">A data scientist from Philadelphia, PA</h3>
 
-- 🔭 I’m currently working on an NLP project
-
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently exploring **ChatGPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dylanbud/](https://github.com/dylanbud/)
 
-- 💬 Ask me about **flask, NLP, blockchain**
+- 💬 Ask me about **AI, NLP, Data Visualization**
 
 - 📫 How to reach me **dylanjbudnick@gmail.com**
 
